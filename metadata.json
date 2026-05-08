@@ -1,0 +1,6 @@
+{
+  "name": "Zafran & Ember",
+  "description": "Modern Indian-fusion fine dining in Mumbai. Experience tradition met with fire.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
